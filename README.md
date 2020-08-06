@@ -2,11 +2,11 @@
 
 ## Plain Vanilla App
 
-### Description:
+### Description
 
-#### This app is sourced from the 'Modern JavaScript' class authored by Brad Traversy, used as an exercise for studying use of the JavaScript Singleton module type, which are loaded when the app is launched.
+This app is sourced from the 'Modern JavaScript' class authored by Brad Traversy, used as an exercise for studying use of the JavaScript Singleton module type, which are loaded when the app is launched.
 
-#### There are four controllers in the app.js file:
+There are four controllers in the app.js file:
 
 * Storage Controller
   
@@ -16,4 +16,4 @@
 
 * App Controller
 
-#### It uses Local Storage to persist data entered by the user. The HTML layout consists of a simple form, total calories, and the list of food items and their calorie number. All CRUD functions are included for modifying the data.
+It uses Local Storage to persist data entered by the user. The HTML layout consists of a simple form, total calories, and the list of food items and their calorie number. All CRUD functions are included for modifying the data.
