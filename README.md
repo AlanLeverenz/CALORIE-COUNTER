@@ -1,6 +1,6 @@
 # CALORIE-COUNTER
 
-## Plain Vanilla App
+## Plain Vanilla JavaScript App
 
 ### Description
 
